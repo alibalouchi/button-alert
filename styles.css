@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+}
+
+.input{
+    margin: 20px;
+    width: 50%;
+    height: 10vh;
+    background-color: #FFF176;
+}
+
+.button{
+    height: 15vh;
+    width: 20vw;
+    background-color: #F57F17;
+    color: white;
+    box-shadow: 2px 1px gray;
+}
